@@ -9,10 +9,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ehgbl&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ehgbl&icon=0&color=2)](https://visitcount.itsvg.in)
 
-### Buy me coffe: buymeacoffee.com/ehgbl
+### Buy me coffe:
+![](https://buymeacoffee.com/ehgbl) 

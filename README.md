@@ -21,8 +21,8 @@
 
 ## 📝 Technical Writing
 
-#### [Security Considerations for ML in Financial Services](https://medium.com/@yourusername/security-considerations-ml-financial-services)
+#### [Security Considerations for ML in Financial Services](https://medium.com/@eden.hgb/security-for-ml-in-financial-services-2e918c650159)
 - Explored ML-specific security threats including adversarial attacks, data poisoning, and model extraction
 
-#### [Securing Conversational AI: Defense Against Chatbot Vulnerabilities](https://medium.com/@yourusername/securing-conversational-ai)
+#### [Building Trustworthy Chatbots: Privacy Protection and Risk Mitigation Strategies](https://medium.com/@eden.hgb/building-trustworthy-chatbots-privacy-protection-and-risk-mitigation-strategies-2975e169f9f1)
 - Analyzed chatbot security vulnerabilities and privacy protection strategies for enterprise deployment

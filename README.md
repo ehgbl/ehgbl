@@ -3,7 +3,7 @@
 
 ## 🚀 Featured Projects
 
-#### 💬 [AI-Powered Dress Consultation Chatbot](https://github.com/ehgbl/chatbot)
+#### 💬 [AI-Powered Consultation Chatbot](https://github.com/ehgbl/chatbot)
 **Tech Stack:** Python, Flask, OpenAI API, SQLite  
 - Built conversational AI with custom sizing recommendations and product catalog integration
 

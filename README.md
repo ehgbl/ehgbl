@@ -7,7 +7,7 @@
 **Tech Stack:** Python, Flask, OpenAI API, SQLite  
 - Built conversational AI with custom sizing recommendations and product catalog integration
 
-#### 🏦 [Banking API System](https://github.com/ehgbl/banking-api)
+#### 🏦 [Banking API System](https://github.com/ehgbl/bankingapi)
 **Tech Stack:** Python, Flask, SQLite, REST APIs  
 - Developed secure banking API with user management, transactions, and comprehensive audit logging
 

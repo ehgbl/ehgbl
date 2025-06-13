@@ -3,19 +3,19 @@
 
 ## 🚀 Featured Projects
 
-#### 💬 [AI-Powered Dress Consultation Chatbot](https://github.com/yourusername/dress-chatbot)
+#### 💬 [AI-Powered Dress Consultation Chatbot](https://github.com/ehgbl/chatbot)
 **Tech Stack:** Python, Flask, OpenAI API, SQLite  
 - Built conversational AI with custom sizing recommendations and product catalog integration
 
-#### 🏦 [Banking API System](https://github.com/yourusername/banking-api)
+#### 🏦 [Banking API System](https://github.com/ehgbl/banking-api)
 **Tech Stack:** Python, Flask, SQLite, REST APIs  
 - Developed secure banking API with user management, transactions, and comprehensive audit logging
 
-#### 🌤️ [Weather-Based Outfit Recommendation System](https://github.com/yourusername/weather-outfit-app)
+#### 🌤️ [Weather-Based Outfit Recommendation System](https://github.com/ehgbl/weather-outfit-app)
 **Tech Stack:** JavaScript, Weather APIs, Fashion APIs  
 - Created intelligent outfit suggestions based on real-time weather data and location
 
-#### 📊 [Reddit Sentiment Analysis Tool](https://github.com/yourusername/reddit-sentiment-analysis)
+#### 📊 [Reddit Sentiment Analysis Tool](https://github.com/ehgbl/reddit-sentiment-analysis)
 **Tech Stack:** Python, NLP Libraries, Data Processing  
 - Built sentiment analysis system with data visualization dashboard for social media insights
 

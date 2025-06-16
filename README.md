@@ -11,7 +11,7 @@
 **Tech Stack:** Python, Flask, SQLite, REST APIs  
 - Developed secure banking API with user management, transactions, and comprehensive audit logging
 
-###  [AI & NLP Image Captioning](https://github.com/ehgbl/ai-image-caption)
+### 📄[AI & NLP Image Captioning](https://github.com/ehgbl/ai-image-caption)
 **Tech Stack:** Python, Flask, SQLite, REST APIs  
 - Developed AI based image captioning for alt-text generation making visual content accessible to visually impaired users by providing text descriptions.
   

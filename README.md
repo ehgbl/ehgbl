@@ -6,6 +6,7 @@
 ![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-red?style=for-the-badge&logo=v&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-purple?style=for-the-badge&logo=v&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-darkred?style=for-the-badge&logo=systemverilog&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)

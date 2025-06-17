@@ -17,7 +17,7 @@
 
 <!-- Weekly coding activity breakdown -->
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api?username=ehgbl)
+![ehgbl's Stats](https://github-readme-stats.vercel.app/api?username=ehgbl&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 Featured Projects
 

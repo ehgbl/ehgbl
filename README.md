@@ -18,21 +18,13 @@
 ## 🚀 Featured Projects
 
 #### 💬 [AI-Powered Consultation Chatbot](https://github.com/ehgbl/chatbot)
-**Tech Stack:** Python, Flask, OpenAI API, SQLite  
-- Built conversational AI with custom sizing recommendations and product catalog integration
 
 #### 🏦 [Banking API System](https://github.com/ehgbl/bankingapi)
-**Tech Stack:** Python, Flask, SQLite, REST APIs  
-- Developed secure banking API with user management, transactions, and comprehensive audit logging
 
 #### 📄[AI & NLP Image Captioning](https://github.com/ehgbl/ai-image-caption)
-**Tech Stack:** Python, Flask, SQLite, REST APIs  
-- Developed AI based image captioning for alt-text generation making visual content accessible to visually impaired users by providing text descriptions.
-  
+
 ## 📝 Technical Writing
 
 #### [Security Considerations for ML in Financial Services](https://medium.com/@eden.hgb/security-for-ml-in-financial-services-2e918c650159)
-- Explored ML-specific security threats including adversarial attacks, data poisoning, and model extraction
 
 #### [Building Trustworthy Chatbots: Privacy Protection and Risk Mitigation Strategies](https://medium.com/@eden.hgb/building-trustworthy-chatbots-privacy-protection-and-risk-mitigation-strategies-2975e169f9f1)
-- Analyzed chatbot security vulnerabilities and privacy protection strategies for enterprise deployment

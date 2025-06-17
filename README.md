@@ -17,7 +17,7 @@
 
 <!-- Weekly coding activity breakdown -->
 
-![ehgbl's Stats](https://github-readme-stats.vercel.app/api?username=ehgbl&theme=merko&show_icons=true&hide_border=true&count_private=true)
+!(![ehgbl's Stats](https://github-readme-stats.vercel.app/api?username=ehgbl&theme=solarized-light&show_icons=true&hide_border=true&count_private=true))
 
 ## 🚀 Featured Projects
 

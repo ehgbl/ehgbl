@@ -17,8 +17,8 @@
 
 ![ehgbl's Stats](https://github-readme-stats.vercel.app/api?username=ehgbl&show_icons=true&count_private=true)
 
-![GitHub Stats](https://github-stats.jstrieb.dev/api?username=ehgbl&type=total-repos)
-
+![](https://raw.githubusercontent.com/ehgbl/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ehgbl/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!-- Weekly coding activity breakdown -->
 

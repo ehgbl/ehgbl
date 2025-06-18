@@ -17,9 +17,6 @@
 
 ![ehgbl's Stats](https://github-readme-stats.vercel.app/api?username=ehgbl&show_icons=true&count_private=true)
 
-![ehgbl's Stats](https://raw.githubusercontent.com/ehgbl/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![ehgbl's Stats](https://raw.githubusercontent.com/ehgbl/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
 <!-- Weekly coding activity breakdown -->
 
 ![ehgbl's Stats](https://github-readme-stats.vercel.app/api?username=ehgbl&theme=buefy&show_icons=true&hide_border=true&count_private=true)

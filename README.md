@@ -20,7 +20,6 @@
 
 ![ehgbl's Stats](https://github-readme-stats.vercel.app/api?username=ehgbl&show_icons=true&count_private=true&cache_seconds=1800)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ehgbl)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Featured Projects
 

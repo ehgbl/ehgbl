@@ -17,7 +17,8 @@
 
 <!-- Weekly coding activity breakdown -->
 
-![ehgbl's Stats](https://github-readme-stats.vercel.app/api?username=ehgbl&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
+![image](https://github.com/user-attachments/assets/0e3da29b-e15a-41cf-8416-8afb1abadf28)
+
 
 ## 🚀 Featured Projects
 

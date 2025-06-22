@@ -14,7 +14,8 @@
 
 <!-- Weekly coding activity breakdown -->
 
-![ehgbl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehgbl&theme=solarized-light&hide_border=true)
+!![ehgbl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehgbl&theme=solarized-light&hide_border=true)
+
 
 ## 🚀 Featured Projects
 

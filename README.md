@@ -14,8 +14,7 @@
 
 <!-- Weekly coding activity breakdown -->
 
-![image](https://github.com/user-attachments/assets/bea895b9-659e-4b78-a8dc-d35791d4164a)
-
+![image](https://github.com/user-attachments/assets/07e24be4-05b2-4263-85a8-5b1718635e4f)
 
 
 ## 🚀 Featured Projects

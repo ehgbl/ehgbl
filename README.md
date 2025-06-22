@@ -16,8 +16,6 @@
 
 <!-- Weekly coding activity breakdown -->
 
-![ehgbl's Stats](https://github-readme-stats.vercel.app/api?username=ehgbl&theme=buefy&show_icons=true&hide_border=true&count_private=false)
-
 ![ehgbl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehgbl&theme=buefy&hide_border=true)
 
 ## 🚀 Featured Projects

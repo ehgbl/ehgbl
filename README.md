@@ -14,7 +14,8 @@
 
 <!-- Weekly coding activity breakdown -->
 
-![ehgbl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehgbl&theme=graywhite&hide_border=true)
+![image](https://github.com/user-attachments/assets/df17bb98-27a2-4bfb-ad0d-e9dd70db1e23)
+
 
 ## 🚀 Featured Projects
 

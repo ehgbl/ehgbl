@@ -12,7 +12,7 @@
 
 #### 💬 [AI-Powered Consultation Chatbot](https://github.com/ehgbl/chatbot)
 
-#### 🏦 [Banking API System](https://github.com/ehgbl/bankingapi)
+#### 🏦 [Code Migrator](https://github.com/ehgbl/code-migrator)
 
 #### 📄[AI & NLP Image Captioning](https://github.com/ehgbl/ai-image-caption)
 
